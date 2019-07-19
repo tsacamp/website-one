@@ -1,0 +1,33 @@
+﻿<html>
+
+<head>ArTecHouse</head>
+
+<body style="background-color:green;">
+
+<img src="artechouse pic 2.jpg" >
+
+<H1 style="font-size:450%;font-family:elefant;text-minion:center".>Artechouse </H1>
+
+<P style="font-size:250%;font-family:arial;text-minion:center"> the tickets for the artechouse are $16 for 18+, $13 for 65+ and military id caryers, and $ 8 for ages (2-14). The time you will spend there is between (45-60) 60 mins being the maximum time limit. And there are after hours sessions for the 21+, the price of it is $16 online and $20 onsite.</P>
+
+<H2 style="font-size:450%;font-family:elefant;text-minion:center".>what it is like going there</H2>
+
+<P style="font-size:250%;font-family:arial;text-minion:center"> When you go there it feels like you are going up wards. There are also bean bags that are very comfortable to sit in. There is a shiny reflective back floor that reflects the video. And finaly there are also comfy benches that you will be able to sit on to see the video.</P>
+
+<H3 style="font-size:450%;font-family:elefant;text-minion:center".>Refik Anadol</H3>
+
+<P style="font-size:250%;font-family:arial;text-minion:center">Refik went to the University of California and got a master of fine arts degree from Istanbul Bilgi University. He is the co-fouder and is the creative director at Antilop. Finaly he has been featured in Wind of Linz, Infinity Room, Archive Dreaming, and Heterotopia.
+
+<H4 style="font-size:450%;font-family:elefant;text-minion:center".>Infinite Space</H4>
+
+<P style="font-size:250%;font-family:arial;text-minion:center">The infinite space session offers beverages for purchase. there is a 18 foot tall projection of Infinite space. Also there is a side room that makes you fell like you are riseing and unbalanced.</P>
+
+<img src="artechousepic3.jpg">
+
+<H5 style="font-size:450%;font-family:elefant;text-minion:center".>My Thoughts</H5>
+
+<P style="font-size:250%;font-family:arial;text-minion:center">This is fun to go to because it has showed lots of cool technology and codes. and there are very comfy bean bag you can sit in to watch "Infinite Space". But unfortunatly there is a 60 min time limit for each visitor so you can not stay there forever.</P>
+
+<img src="artechousepic3.jpg">
+
+</body>
